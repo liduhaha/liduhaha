@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Lidiia Rachynska</h1>
-<h3 align="center">A passionate frontend developer from Ukraine</h3>
+![Image alt](https://github.com/liduhaha/img/raw/main/IMG_7537.gif)
+
+<h3 align="left">Hi 👋, I'm Lidiia Rachynska, I'm a Front-End Developer from Ukraine</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
